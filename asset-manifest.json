@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dc-app/static/css/main.28586357.css",
+    "main.js": "/dc-app/static/js/main.f4878644.js",
+    "index.html": "/dc-app/index.html",
+    "main.28586357.css.map": "/dc-app/static/css/main.28586357.css.map",
+    "main.f4878644.js.map": "/dc-app/static/js/main.f4878644.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28586357.css",
+    "static/js/main.f4878644.js"
+  ]
+}
